@@ -3,6 +3,7 @@ namespace MovimentacaoEstoque.Domain.Entities;
     public class Movimentacao
     {
         public int Identificador { get; set; }
+        public string IdentificadorGuid { get; set; } = string.Empty;
         public int CodigoProduto { get; set; }
         public int Quantidade { get; set; }
         public int TipoMovimentacao { get; set; }

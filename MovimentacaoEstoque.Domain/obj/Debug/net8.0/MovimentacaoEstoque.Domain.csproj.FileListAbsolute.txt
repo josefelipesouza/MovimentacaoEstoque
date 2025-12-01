@@ -16,6 +16,7 @@ C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\ob
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.AssemblyInfo.cs
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.sourcelink.json
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.dll
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\refint\MovimentacaoEstoque.Domain.dll
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.Domain\obj\Debug\net8.0\MovimentacaoEstoque.Domain.pdb

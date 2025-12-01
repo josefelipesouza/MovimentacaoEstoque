@@ -40,6 +40,7 @@ namespace MovimentacaoEstoque.Application.Handlers.Movimentacoes.Cadastrar;
                 
                 var movimentacao = new MovimentacaoEstoque.Domain.Entities.Movimentacao
                 {
+                    IdentificadorGuid = Guid.NewGuid().ToString(),
                     CodigoProduto = request.CodigoProduto,
                     Quantidade = request.Quantidade,
                     TipoMovimentacao = (int)request.TipoMovimentacao,

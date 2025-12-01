@@ -28,11 +28,13 @@ builder.Services.AddScoped<ListarMovimentacaoHandler>();
 
 // Build app
 var app = builder.Build();
+app.UseDeveloperExceptionPage();
+
 
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<EstoqueDbContext>();
-    context.Database.EnsureCreated();
+    context.Database.Migrate();
     EstoqueSeeder.Seed(context);
 }
 

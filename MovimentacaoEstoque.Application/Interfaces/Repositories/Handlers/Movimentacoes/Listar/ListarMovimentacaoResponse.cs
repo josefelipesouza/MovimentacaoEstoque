@@ -6,6 +6,7 @@ namespace MovimentacaoEstoque.Application.Handlers.Movimentacoes.Listar;
     public class MovimentacaoDto
     {
         public int Id { get; set; }
+        public string IdentificadorGuid { get; set; } 
         public int TipoMovimentacao { get; set; }
         public int CodigoProduto { get; set; }
         public int Quantidade { get; set; }
@@ -15,6 +16,7 @@ namespace MovimentacaoEstoque.Application.Handlers.Movimentacoes.Listar;
         public MovimentacaoDto(Movimentacao m)
         {
             Id = m.Identificador;
+            IdentificadorGuid = m.IdentificadorGuid;
             TipoMovimentacao = m.TipoMovimentacao;
             CodigoProduto = m.CodigoProduto;
             Quantidade = m.Quantidade;

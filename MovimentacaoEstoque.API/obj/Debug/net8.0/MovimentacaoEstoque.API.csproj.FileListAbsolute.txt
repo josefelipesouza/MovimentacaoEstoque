@@ -320,6 +320,7 @@ C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\D
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\MovimentacaoEstoque.API.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\MovimentacaoEstoque.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\MovimentacaoEstoque.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\MovimentacaoEstoque.API.sourcelink.json
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\scopedcss\bundle\MovimentacaoEstoque.API.styles.css
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\Desktop\dev\.net\MovimentacaoEstoque\MovimentacaoEstoque.API\obj\Debug\net8.0\staticwebassets.development.json
