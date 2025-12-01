@@ -11,15 +11,11 @@ Abra o terminal na pasta da API:
 
 \MovimentacaoEstoque\MovimentacaoEstoque.API>
 
-lua
-Copiar código
 
 E execute o comando:
 
 dotnet run
 
-yaml
-Copiar código
 
 Se tudo estiver correto, você verá algo como:
 
@@ -27,15 +23,12 @@ Now listening on: http://localhost:5000
 Application started.
 Hosting environment: Development
 
-css
-Copiar código
+
 
 A API estará disponível em:
 
 http://localhost:5000
 
-yaml
-Copiar código
 
 ---
 
@@ -75,7 +68,6 @@ curl -X 'POST' \
   -H 'accept: */*' \
   -H 'Content-Type: application/json' \
   -d '{
-        "identificador": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "codigoProduto": 103,
         "tipoMovimentacao": -1,
         "quantidade": 15,
@@ -108,3 +100,16 @@ Swagger / Swashbuckle
 Arquitetura em camadas (Domain, Application, Infrastructure, API)
 
 Injeção de Dependência (DI)
+
+## 🗄️ Banco de Dados – SQLite
+
+Este projeto utiliza **SQLite** como banco de dados local.  
+O SQLite é simples, leve e não requer instalação de servidor.
+
+---
+
+### 📌 O arquivo do banco:
+
+MovimentacaoEstoque.API/Database
+
+
